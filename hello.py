@@ -13,3 +13,9 @@ print("Jezu niech juz sie ten projekt skonczy")
 print ("coś tam ")
 # komentarz.
 print("Zło!!!!")
+
+print("wszystkim znudzi sie za...")
+for i in range(20):
+    print(i)
+else:
+    print("JUŻ")
