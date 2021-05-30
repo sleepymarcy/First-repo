@@ -11,3 +11,5 @@ print("Aby zapisac zmiany nacisnij ctrl+s")
 print("Jezu niech juz sie ten projekt skonczy")
 
 print ("coś tam ")
+
+print("Zło!!!!")
