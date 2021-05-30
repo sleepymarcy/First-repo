@@ -15,3 +15,5 @@ print ("coś tam ")
 print("Zło!!!!")
 
 print("Zaraz coś ogarnę.")
+
+print("Truskawkowe herbatki.")
