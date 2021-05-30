@@ -22,3 +22,7 @@ for i in range(20):
 else:
     print("JUŻ")
 print("Jeszcze nie?")
+
+print("Zaraz coś ogarnę.")
+
+print("Truskawkowe herbatki.")
