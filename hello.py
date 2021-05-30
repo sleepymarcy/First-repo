@@ -13,3 +13,16 @@ print("Jezu niech juz sie ten projekt skonczy")
 print ("coś tam ")
 # komentarz.
 print("Zło!!!!")
+
+print("w gałązce")
+
+print("wszystkim znudzi sie za...")
+for i in range(20):
+    print(i)
+else:
+    print("JUŻ")
+print("Jeszcze nie?")
+
+print("Zaraz coś ogarnę.")
+
+print("Truskawkowe herbatki.")
