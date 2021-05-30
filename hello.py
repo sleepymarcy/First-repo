@@ -11,5 +11,7 @@ print("Aby zapisac zmiany nacisnij ctrl+s")
 print("Jezu niech juz sie ten projekt skonczy")
 
 print ("coś tam ")
+# komentarz.
+print("Zło!!!!")
 
 print("Zaraz coś ogarnę.")
